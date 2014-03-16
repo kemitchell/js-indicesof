@@ -5,6 +5,11 @@ Just like indexOf(), but returns an array of all occurrences.
 
 If there is no match, then it will return an empty array.
 
+Install
+-------
+
+	npm i indicesof
+
 Syntax
 ------
 
